@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikemary01
-- 👀 I’m interested in IT/ Infrstructure
+- 👀 I’m interested in IT/ Infrastructure
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Cloud computing
 - 📫 How to reach me: ogbumikemary@gmail.com
